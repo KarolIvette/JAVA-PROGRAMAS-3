@@ -32,15 +32,15 @@ public class Figura implements Figurita{
 	}
 	    for (col=numero-1; col>0; col--)
 	{
-	 	for (line=0; line<=numero; line++)
+	 	for (line=0; line<numero; line++)
 	    {
-	     	if (((col+line)-(numero-1))> 0) 
+	     	if (((col+line)-(numero))> 0) 
 	     		System.out.print(letra);
 	     	else
 	     		System.out.print(" ");
 		}
 	 	System.out.println("\n");
-	        letra++;
+	        //letra++;
 		
 	}
 	
