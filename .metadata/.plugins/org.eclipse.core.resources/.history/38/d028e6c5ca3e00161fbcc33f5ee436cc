@@ -1,0 +1,48 @@
+package Ej_Figura;
+
+import javax.swing.JOptionPane;
+
+public class Figura implements Figurita{
+	
+	int numero = 0;
+
+	@Override
+	public void setNumero(int numero) {
+		
+	}
+
+	@Override
+	public int getNumero() {
+		
+		return 0;
+	}
+
+	@Override
+	public void figura(int numero) {
+		char letra = 'A';
+	    int col, line;
+	    for(col=1; col<=numero; col++)
+	{
+	    for(line=1;line<=col;line++)
+	    {
+	        System.out.print(letra);
+	    }
+	    System.out.print("\n");
+	    letra++;
+	}
+	    for (col=numero-1; col>0; col--)
+	{
+	 	for (line=0; line<numero; line++)
+	    {
+	     	if (((col+line)-(numero-1))> 0) 
+	     		System.out.print(letra);
+	     	else
+	     		System.out.print(" ");
+		}
+	 	System.out.println("\n");
+	        //letra++;
+		
+	}
+	
+	}
+}

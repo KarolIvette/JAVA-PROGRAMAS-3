@@ -1,0 +1,15 @@
+package Ej_Figura;
+import javax.swing.JOptionPane;
+
+public class main {
+
+	public static void main(String[] args) {
+		
+		int numero=0;
+		Figura fig =  new Figura();
+		fig.leer_numero(numero);
+		fig.figura(numero);
+		
+	}
+
+}

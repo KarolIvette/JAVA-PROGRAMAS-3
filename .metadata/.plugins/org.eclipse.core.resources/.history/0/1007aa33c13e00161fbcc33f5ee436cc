@@ -1,0 +1,10 @@
+package Ej_Figura;
+
+public interface Figurita {
+	
+	void setNumero(int numero);
+	int getNumero();
+	int leer_numero(int numero);
+	void figura(int numero);
+
+}
