@@ -15,7 +15,7 @@ public class ip implements inter_ip {
 	
 	public void lectura() throws IOException{
 	try{
-		int h=0,i=1,k=0,d=0;
+		int h=0,i=1,k=0,d=0,acu=0;
 		ruta = ip.class.getResource("log.log").toString();
 		ruta=ruta.substring(6, ruta.length());
 				ruta=ruta.replace("%20"," "); 
@@ -42,26 +42,33 @@ public class ip implements inter_ip {
 		}
 		for(int f=0;f<k;f++){ 
 			d=0;
+			
 			aux=list[f];
 			if(aux!=" "){
 			for(int t=0;t<k;t++){ 
+				
 	    	if(aux.equals(list[t])){
 	    		d++;
+	    		
 	    		for(int o=0;o<aux.length();o++){
+	    			
 	    		if(aux.substring(o,o+1).equals(" ")){
 	    		 ip1=aux.substring(0,o);
 	    		fecha1=aux.substring(o);
 	    		}
 	    		}
 	    		 list[t]=" ";
+	    		 
 	    	} 
 		}
 			h++; 
+			acu+=d;
 		System.out.println(h+") "+"Ip:"+ip1+" Intentos: "+d+" Fecha: "+fecha1);
-		}
+		
+			}
+			
 	    }
-		 
-	     
+		System.out.println("\nNUMERO DE LINEAS DEL FICEHRO: "+acu);
 		}catch(FileNotFoundException e){
 			JOptionPane.showMessageDialog(null, "NO EXISTE","ATENCION",JOptionPane.WARNING_MESSAGE);
 		}
