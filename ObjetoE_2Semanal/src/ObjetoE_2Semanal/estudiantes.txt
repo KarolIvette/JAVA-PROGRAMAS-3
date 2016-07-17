@@ -1,0 +1,3 @@
+0001|karol cedeno|fisica|18.0|20.0|
+0002|ayrton adame|ingles|19.0|18.0|
+0003|diana tamayo|aleman|16.0|17.0|
