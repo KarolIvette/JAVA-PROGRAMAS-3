@@ -1,0 +1,14 @@
+<list>
+  <Estudiante>
+    <matricula>4728</matricula>
+    <nombres>Armando Casas</nombres>
+    <notas__parciales>20.0</notas__parciales>
+    <notas__examen>10.0</notas__examen>
+  </Estudiante>
+  <Estudiante>
+    <matricula>4228</matricula>
+    <nombres>Maria Paredes</nombres>
+    <notas__parciales>30.0</notas__parciales>
+    <notas__examen>10.0</notas__examen>
+  </Estudiante>
+</list>
