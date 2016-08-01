@@ -1,0 +1,11 @@
+
+4565|Maria Simisterra|Direccion|Esmeraldas|20
+5698|Carlos Mideros|Barrio Alto|Quininde|17
+9834|Fork Cevallos|Los Hermanos|Esmeraldas|17
+8789|Tera Estupinan|Prado|Quininde|23
+7412|Karla Quinonez|20 de Noviembre|Esmeraldas|45
+4852|Marcos Lirios|Duran|Quininde|60
+9542|Ayrton Adame|San Rafael|Esmeraldas|22
+7865|Selena Vivar|15 de Marzo|Quininde|17
+9845|Andreina Macias|Tolita 1|Esmeraldas|9
+9867|David Garcia|24 de Mayo|Quininde|54

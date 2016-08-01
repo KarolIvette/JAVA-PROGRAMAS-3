@@ -1,0 +1,72 @@
+<list>
+<Estudiante>
+	<matricula>4565</matricula>
+	<nombres>Maria Simisterra</nombres>
+	<direccion>Direccion</direccion>
+	<ciudad>Esmeraldas</ciudad>
+	<edad>20</edad>
+</Estudiante>
+<Estudiante>
+	<matricula>5698</matricula>
+	<nombres>Carlos Mideros</nombres>
+	<direccion>Barrio Alto</direccion>
+	<ciudad>Quininde</ciudad>
+	<edad>17</edad>
+</Estudiante>
+<Estudiante>
+	<matricula>9834</matricula>
+	<nombres>Fork Cevallos</nombres>
+	<direccion>Los Hermanos</direccion>
+	<ciudad>Esmeraldas</ciudad>
+	<edad>17</edad>
+</Estudiante>
+<Estudiante>
+	<matricula>8789</matricula>
+	<nombres>Tera Estupinan</nombres>
+	<direccion>Prado</direccion>
+	<ciudad>Quininde</ciudad>
+	<edad>23</edad>
+</Estudiante>
+<Estudiante>
+	<matricula>7412</matricula>
+	<nombres>Karla Quinonez</nombres>
+	<direccion>20 de Noviembre</direccion>
+	<ciudad>Esmeraldas</ciudad>
+	<edad>45</edad>
+</Estudiante>
+<Estudiante>
+	<matricula>4852</matricula>
+	<nombres>Marcos Lirios</nombres>
+	<direccion>Duran</direccion>
+	<ciudad>Atacames</ciudad>
+	<edad>60</edad>
+</Estudiante>
+<Estudiante>
+	<matricula>9542</matricula>
+	<nombres>Ayrton Adame</nombres>
+	<direccion>San Rafael</direccion>
+	<ciudad>Esmeraldas</ciudad>
+	<edad>60</edad>
+</Estudiante>
+<Estudiante>
+	<matricula>7865</matricula>
+	<nombres>Selena Vivar</nombres>
+	<direccion>15 de Marzo</direccion>
+	<ciudad>Quininde</ciudad>
+	<edad>17</edad>
+</Estudiante>
+<Estudiante>
+	<matricula>9845</matricula>
+	<nombres>Andreina Macias</nombres>
+	<direccion>Tolita 1</direccion>
+	<ciudad>Esmeraldas</ciudad>
+	<edad>9</edad>
+</Estudiante>
+<Estudiante>
+	<matricula>9867</matricula>
+	<nombres>David Garcia</nombres>
+	<direccion>24 de Mayo</direccion>
+	<ciudad>Quininde</ciudad>
+	<edad>54</edad>
+</Estudiante>
+</list>
